@@ -3,8 +3,9 @@ A fixed size hashmap written in python.
 
 ## Instructions
 
-To run tests, run python hashmap`_unittests.py
-To use the hashmap, import hashmap
+To run tests, run python hashmap_unittests.py
+
+To use the hashmap class in your code, import hashmap
 
 ## Functions
 * constructor(size) - creates a hashmap of fixed size
